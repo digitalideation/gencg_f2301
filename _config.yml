@@ -1,5 +1,5 @@
 title: GENCG
-description: Winter 2021
+description: Winter 2022
 remote_theme: pmarsceill/just-the-docs
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: dark
@@ -38,8 +38,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "GENCG21":
-    - "https://github.com/digitalideation/gencg_h2101"
+  "GENCG22":
+    - "https://github.com/digitalideation/gencg_h2201"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

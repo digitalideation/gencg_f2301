@@ -158,7 +158,7 @@ We will use [__p5.js__ ](https://p5js.org/) for the front end. It’s a high lev
 
 #### General
 
-- [Vera Molnar Journal](https://en.calameo.com/read/0002895619da2a1b1daf8)
+- Vera Molnar Journal [Part01](../../assets/pdf/vera_journal_01.pdf) - [Part02](../../assets/pdf/vera_journal_02.pdf)
 - [The coding train :rainbow:](https://thecodingtrain.com/) (course)
 - [Nature of code](https://natureofcode.com/book/) (book)
 - [Canvas demos](http://youpi.io) (demo)
@@ -206,7 +206,7 @@ We will use [__p5.js__ ](https://p5js.org/) for the front end. It’s a high lev
 - [History](http://www.verostko.com/algorist.html)
 
 
-[url00]: https://digitalideation.github.io/gencg_h2201/slides/intro.html
-[url01]: https://digitalideation.github.io/gencg_h2201/slides/history.html
+[url00]: https://digitalideation.github.io/gencg_f2301/slides/intro.html
+[url01]: https://digitalideation.github.io/gencg_f2301/slides/history.html
 [url02]: https://nrich.maths.org/2413
 [url03]: https://jessicacarnegie.com/sol-lewitt-wall-drawing-118

@@ -14,7 +14,7 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 - [Day01 - Intro](notes/day01) - **On-site** :school:
 - [Day02 - Grids & Iterative Patterns](notes/day02) - Home / On-site :house:
 - [Day03 - Clock](notes/day03) - Home / On-site :house:
-- [Day04 - Machines](notes/day04) - **On-site** :school:
+- [Day04 - Machines](notes/day04) - Home / On-site :house:
 - [Day05 - Reflect / Collect / Prepare](notes/day05/) - Home / On-site :house:
 - [Day06 - Faces](notes/day06) - **On-site** :school:
 - [Day07 - Pixels - Part 01](notes/day07) - Home / On-site :house:

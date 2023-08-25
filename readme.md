@@ -7,7 +7,7 @@
 
 ## Intro
 
-Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 3 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep it updated. All the assignments and their accompanying documentations should be collected by the students in the `journal` branch of this repo.
+Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 2 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep it updated. All the assignments and their accompanying documentations should be collected by the students in the `journal` branch of this repo.
 
 ## Content
 

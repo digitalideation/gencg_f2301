@@ -5,6 +5,17 @@
 
 [★★★ This repository is published here ★★★](https://digitalideation.github.io/gencg_f2301/)
 
+## Results :trophy:
+
+- [Nadia](https://nedbou.github.io/gencg_f2301/)
+- [Perla](https://luurla.github.io/gencg_f2301/)
+- [Kim J.](https://kije.github.io/gencg_f2301/)
+- [Kim M.](https://github.com/PLEXATIC/GenerativeBlock) (Obsidian doc)
+- [Lukas](https://fimoker.github.io/gencg_f2301/)
+- [Marcel](https://gwydi.me/blog/gencg/)
+- [Silván](https://s0-wi.github.io/gencg_f2301/)
+- [Robin](https://theonean.github.io/gencg_f2301/)
+
 ## Intro
 
 Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 2 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep it updated. All the assignments and their accompanying documentations should be collected by the students in the `journal` branch of this repo.
